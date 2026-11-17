@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:2b7bff&height=200&section=header&text=Himanshu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%C2%B7%20DSA%20in%20C%2B%2B%20%C2%B7%20AI%2FML%20Student&descAlignY=58&descSize=18" alt="Himanshu — Developer" />
+  <img src="assets/header.svg" alt="Himanshu — Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=himanshu180105&label=Profile%20Views&color=e23636&style=for-the-badge" />
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🕷️ About Me
 
@@ -24,12 +24,12 @@ const himanshu = {
 };
 ```
 
-- 🕸️ I like turning ideas into **full-stack web apps** — from the database to the UI.
+- 🕸️ I like **swinging** ideas into **full-stack web apps** — from the database to the UI.
 - 🧠 Sharpening my **DSA in C++** one problem at a time — **200+ LeetCode problems solved**, active on **Codeforces**, **CodeChef 2★**.
 - 🤖 Exploring **AI/ML** and **GenAI** alongside web development.
 - 🎯 Currently **open to internships**, so feel free to reach out!
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🧰 Tech I Swing With
 
@@ -37,7 +37,7 @@ const himanshu = {
   <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,express,mongodb,git,github,vscode,vercel&perline=6&theme=dark" alt="Tech stack" />
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -71,7 +71,7 @@ My **Data Structures & Algorithms** practice — LeetCode and Codeforces solutio
 
 ![C++](https://img.shields.io/badge/C++-0d0d1a?style=flat-square&logo=cplusplus&logoColor=00599C)
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Web Stats
 
@@ -84,7 +84,7 @@ My **Data Structures & Algorithms** practice — LeetCode and Codeforces solutio
   <img src="https://streak-stats.demolab.com?user=himanshu180105&background=0d0d1a&ring=e23636&fire=e23636&currStreakLabel=e23636&sideLabels=2b7bff&currStreakNum=f2f4ff&sideNums=f2f4ff&dates=9aa3c7&stroke=2b7bff&border=2b7bff" alt="GitHub streak" />
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🤝 Let's Connect
 
@@ -97,5 +97,5 @@ I'm always up for collaborating on web projects, hackathons or open source. Drop
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b7bff,100:0d0d1a&height=120&section=footer&text=Thanks%20for%20swinging%20by!&fontSize=24&fontColor=ffffff&fontAlignY=65" alt="Thanks for swinging by" />
+  <img src="assets/footer.svg" alt="Thanks for swinging by" width="100%" />
 </p>
